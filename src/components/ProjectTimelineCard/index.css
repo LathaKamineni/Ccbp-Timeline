@@ -1,0 +1,21 @@
+/* Write your CSS here */
+.project-image {
+  height: 220px;
+  width: 300px;
+}
+.calender-icon {
+  margin-top: 16px;
+}
+.project-name-duration-container {
+  display: flex;
+  justify-content: space-between;
+  width: 100%;
+}
+.description {
+  font-family: 'Roboto';
+  color: #1e293b;
+}
+.project-link {
+  text-align: left;
+  font-family: 'roboto';
+}
